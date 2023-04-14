@@ -15,18 +15,10 @@ export const NavbarContainer = styled.div`
 
   @media screen and (max-width: 957px) {
     height: 5rem;
-    gap: 8rem;
   }
 
-  @media screen and (max-width: 875px) {
-    gap: 5rem;
-  }
   @media screen and (max-width: 771px) {
     padding: 0 1rem;
-  }
-
-  @media screen and (max-width: 735px) {
-    gap: 3rem;
   }
 
   @media screen and (max-width: 467px) {
