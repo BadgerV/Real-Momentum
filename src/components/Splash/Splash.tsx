@@ -9,7 +9,7 @@ import {
 
 const Splash = () => {
   return (
-    <SplashContainer>
+    <SplashContainer id="home">
       <Navbar />
 
       <SplashText>

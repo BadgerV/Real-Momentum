@@ -12,7 +12,7 @@ import {
 
 const About = () => {
   return (
-    <AboutContainer>
+    <AboutContainer id="about">
       <AboutBoxOne>
         <AboutImageSide>
           <AboutImage src="/assets/image-1.png" />

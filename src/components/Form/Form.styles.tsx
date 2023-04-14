@@ -55,8 +55,11 @@ export const FormLeftImageContainer = styled.div`
     height: 15rem;
   }
 
-  @media screen and (max-width: 783px) {
-    height: 12rem;
+  @media screen and (max-width: 755px) {
+    height: 18rem;
+  }
+  @media screen and (max-width: 450px) {
+    height: 15rem;
   }
 `;
 export const FormLeftImage = styled.img`
@@ -113,6 +116,7 @@ export const FormRightInput = styled.input`
   outline: none;
   border-bottom: 1px solid #00000081;
   height: 2.5rem;
+  padding: 0.5rem 0;
   font-size: 0.9rem;
   padding-left: 0.1rem;
 

@@ -16,7 +16,7 @@ import {
 
 const Form = () => {
   return (
-    <FormContainer>
+    <FormContainer id="contact">
       <FormLeft>
         <FormLeftImageContainer>
           <FormLeftImage src="/assets/profile-pic.png" alt="pic" />
